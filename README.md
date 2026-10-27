@@ -14,6 +14,6 @@ Engenheiro de Controle e Automação em Manaus/AM. Trabalho com gestão de produ
 Python, SQL, ETL e Power BI. Depois, engenharia de IA.
 
 ## Ferramentas
-Python · SQL · n8n · Google Apps Script · Power BI · Looker Studio · Notion · HTML/CSS/JS
+Python · SQL · PostgreSQL · n8n · Google Apps Script · Power BI · Looker Studio · Notion · HTML/CSS/JS
 
 📍 Manaus, AM · [LinkedIn](https://www.linkedin.com/in/marcosafreitass)
